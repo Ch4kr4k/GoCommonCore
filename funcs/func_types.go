@@ -1,5 +1,5 @@
 package funcs
 
-type cache struct {
+type Cache struct {
 	slice_cache map[string]bool
 }
